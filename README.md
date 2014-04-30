@@ -48,3 +48,7 @@ id block = ^{ return nil; }
 id block = ^{ return nil; }
               ^^^^^^^^^^^
 ```
+
+## Required
+
+[vim-textobj-user](https://github.com/kana/vim-textobj-user)
